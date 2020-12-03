@@ -1,1 +1,3 @@
 # IRCTC-e-Solution-Application
+
+Millions of people do travel via train on daily basis in India. A major issue faced in long distance trains is the unconfirmed tickets. This creates a unsatisfactory experience for passengers. One more problem we noted in our real-life experience that is the Train Ticket Examiner carries a Passenger chart list for verification. The quantity of pages is minimum 50+ pages. Give it a thought that thousands of trains run daily, and each TTE carries numbers of these charts along with them. Result is tonnes of paper are wasted daily. We came up with a e-solution which not only takes care of passengers in terms of seat availability but also lowers the burden TTE’s by storing all those chart data in a single device.
